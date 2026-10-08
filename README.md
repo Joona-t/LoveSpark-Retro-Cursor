@@ -1,3 +1,5 @@
+> **📦 Moved.** This extension now lives in the LoveSpark monorepo: **[Joona-t/lovespark-extensions/themes/lovespark-retro-cursor](https://github.com/Joona-t/lovespark-extensions/tree/main/themes/lovespark-retro-cursor)** (full history kept). This repo is archived and read-only.
+
 # LoveSpark Retro Cursor
 
 A retro-pink cursor pack browser extension (Manifest V3) with a cute LoveSpark aesthetic.
